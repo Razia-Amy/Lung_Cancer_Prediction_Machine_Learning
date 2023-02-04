@@ -10,8 +10,7 @@ Cancer is one of the leading causes of death both in the U.S. and worldwide, and
 The original dataset contains 18 columns and 510 rows with the "GENDER" and "LUNG_CANCER" columns containing object data types while the rest of the columns were integer datatypes. The data was then cleaned and processed for modeling by changing the following: The values "M" and "F" in the "GENDER column were converted to 1 and 0 respectively. The values "Positive" and "Negative" in the "LUNG_CANCER" column were converted to “YES” and “N0” respectively. The values "Yes" and "No" in the rest of the columns were converted to 2 and 1 respectively. The processed dataset was then saved as processed_lung_cancer.csv
 
 # Original Dataset:
-
-https://github.com/tanzina-islam/Lung_Cancer_Prediction_Using_ML/blob/main/LungCancerSurvey.csv
+(https://github.com/Razia-Amy/Lung_Cancer_Prediction_Machine_Learning/blob/main/LungCancerSurvey.csv)
 
 # Modeling:
 
